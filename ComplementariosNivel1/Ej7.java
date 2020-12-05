@@ -7,7 +7,7 @@ public class Ej7 {
     public static void main(String[] args) {
         
         Scanner scan = new Scanner(System.in);
-        Map <Character, Character> letra = new HashMap();
+        Map <Character, Character> letra = new HashMap<>();
         letra.put('a', 'A');
         letra.put('b', 'B');
         letra.put('c', 'C');
